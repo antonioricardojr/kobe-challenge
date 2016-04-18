@@ -1,0 +1,2 @@
+# kobe-challenge
+Kobe Bean Bryant is an American retired professional basketball player. He played his entire 20-year with the Los Angeles Lakers of the National Basketball Association. Kaggle's platform is hosting a competition to predict which Bryant's shots will find the bottom of the net. This competition is well suited for practicing classification basics, feature engineering, and time series analysis.
